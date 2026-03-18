@@ -1,0 +1,15 @@
+# Maintainer roster for Clusternet
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+maintainers:
+  - project_id: "clusternet"
+    org: "clusternet"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - dixudx
+          - garrybest
+          - hle2
+          - lmxia
+          - yiwei-c
