@@ -28,7 +28,7 @@ repositories:
 
 website: "https://clusternet.io"
 
-artwork: "https://landscape.cncf.io/logos/clusternet.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/clusternet"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
